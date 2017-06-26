@@ -76,6 +76,7 @@
 #define BOARD_GEN3_PLUS         9    // Gen3+
 #define BOARD_GEN3_MONOLITHIC   22   // Gen3 Monolithic Electronics
 #define BOARD_MEGATRONICS       70   // Megatronics
+#define BOARD_GT2560_REV_A_3IN1 76   // Geeetech GT2560 REv. A used in the 3 in 1 box (Prusa i3 Pro Rev A)
 #define BOARD_MEGATRONICS_2     701  // Megatronics v2.0
 #define BOARD_MINITRONICS       702  // Minitronics v1.0/1.1
 #define BOARD_MEGATRONICS_3     703  // Megatronics v3.0
